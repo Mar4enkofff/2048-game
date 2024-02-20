@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Implemented a popular game using pure JavaScript, HTML, and CSS. Recreated the game mechanics and scoring system to deliver an experience similar to the original game.
+
+Live Preview Check out the live demo of the website https://mar4enkofff.github.io/2048-game/
+
+Technologies Used:
+
+JavaScript;
+SCSS preprocessor;
+Installation and Usage:
+
+Clone the repository;
+Install dependencies: npm install;
+Start the development server: npm start;
