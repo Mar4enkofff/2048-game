@@ -3,11 +3,10 @@ Implemented a popular game using pure JavaScript, HTML, and CSS. Recreated the g
 Live Preview Check out the live demo of the website https://mar4enkofff.github.io/2048-game/
 
 Technologies Used:
-
 JavaScript;
 SCSS preprocessor;
-Installation and Usage:
 
+Installation and Usage:
 Clone the repository;
 Install dependencies: npm install;
 Start the development server: npm start;
